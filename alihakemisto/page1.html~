@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF=8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X_UA-Compatible" content="ie=edge">
+  
+  <title> Emacs and how I use it</title>
+  <link rel="stylesheet" href="/hakemisto/alihakemisto/style.css">
+</head>
+<body>
+  <main>
+    <h1>The Emacs text editor</h1>
+    <div class="box1">
+      <h2>Initial impressions</h2>
+      <p id="impressions">Initial Impressions using Emacs were pretty good. I was excited to start learning this program. At first I watched a few of those videos about Emacs on Moodle and then I googled some keybinds. I ran into my first issue, when I wanted to copy a piece of my code; the C+space mark hotkey didn't work. I had to look to google for some answers and it seems there is an alternative way to mark a location using c+@, that worked for me.</p>
+      <p id ="issue2">I ran into my second issue, when trying to figure out why my website didn't respond accordingly with the changes I made to my .css file. It seems I had accidentally created some other files with similar names and the .html file was reading them as the stylesheet for the page. Often the hotkeys and shortcuts are very useful, but  sometimes stuff like that happens and you are left wondering what went wrong.</p>
+	
+    </div>
+    <div class="box2">
+      <img src="image.jpg" alt="frustrated statue" id="statue">
+    </div>
+    <div class="box3">
+      <h2>Great features</h2>
+      <p id="featuretxt">The editor allows for great customizability, add-ons, has great built in features and has a ton of resources online if you are looking for help. My favourite part about this editor is how beginner friendly it is. The f10 key and being able to see the hotkeys really helped me in the beginning of this exercise. I still have not figured out how to use my mouse to move my cursor around, but in the long term that might be a good thing, for it encourages the use of the useful hotkeys. 
+    </div>
+  </main>
+</body>
